@@ -1,0 +1,19 @@
+Record 1 (P1001): Patient John Doe, a Male born on 1985-07-14. During encounter E2001 on 2026-02-01 at Ward A - Bed 1, vitals were recorded as: Heart Rate 78 beats/min, Blood Pressure 120/80 mmHg, Respiratory Rate 16, Temperature 37.2°C, and Oxygen Saturation 98%. Patient has a BMI of 23.5 (Height: 175cm, Weight: 72kg). Clinical notes: Stable, no distress.
+
+Record 2 (P1002): Patient Alice Smith, a Female born on 1990-03-22. During encounter E2002 on 2026-02-01 at Ward A - Bed 2, vitals were recorded as: Heart Rate 85 beats/min, Blood Pressure 118/76 mmHg, Respiratory Rate 18, Temperature 36.8°C, and Oxygen Saturation 97%. Patient has a BMI of 22.8 (Height: 162cm, Weight: 60kg). Clinical notes: Mild cough, otherwise stable.
+
+Record 3 (P1003): Patient Raj Kumar, a Male born on 1975-11-05. During encounter E2003 on 2026-02-01 at Ward B - Bed 3, vitals were recorded as: Heart Rate 92, Blood Pressure 135/88 mmHg, Respiratory Rate 20, Temperature 38.1°C, and Oxygen Saturation 95%. Patient has a BMI of 27.7 (Height: 170cm, Weight: 80kg). Clinical notes: Febrile, monitoring closely.
+
+Record 4 (P1004): Patient Maria Lopez, a Female born on 1982-01-15. During encounter E2004 on 2026-02-01 at Ward B - Bed 4, vitals were recorded as: Heart Rate 70, Blood Pressure 110/72 mmHg, Respiratory Rate 14, Temperature 36.5°C, and Oxygen Saturation 99%. Patient has a BMI of 20.5 (Height: 168cm, Weight: 58kg). Clinical notes: Healthy, routine check.
+
+Record 5 (P1005): Patient David Brown, a Male born on 1968-09-09. During encounter E2005 on 2026-02-01 at Ward C - Bed 5, vitals were recorded as: Heart Rate 88, Blood Pressure 140/90 mmHg, Respiratory Rate 22, Temperature 37.9°C, and Oxygen Saturation 94%. Patient has a BMI of 29.3 (Height: 180cm, Weight: 95kg). Clinical notes: Hypertensive, under observation.
+
+Record 6 (P1006): Patient Sophia Williams, a Female born on 2000-06-12. During encounter E2006 on 2026-02-01 at Ward C - Bed 6, vitals were recorded as: Heart Rate 76, Blood Pressure 115/75 mmHg, Respiratory Rate 15, Temperature 36.9°C, and Oxygen Saturation 98%. Patient has a BMI of 20.2 (Height: 165cm, Weight: 55kg). Clinical notes: Routine exam, normal vitals.
+
+Record 7 (P1007): Patient Chen Li, a Male born on 1995-04-18. During encounter E2007 on 2026-02-01 at Ward D - Bed 7, vitals were recorded as: Heart Rate 82, Blood Pressure 125/82 mmHg, Respiratory Rate 17, Temperature 37.0°C, and Oxygen Saturation 96%. Patient has a BMI of 23.0 (Height: 172cm, Weight: 68kg). Clinical notes: Mild fatigue reported.
+
+Record 8 (P1008): Patient Fatima Ali, a Female born on 1988-12-30. During encounter E2008 on 2026-02-01 at Ward D - Bed 8, vitals were recorded as: Heart Rate 90, Blood Pressure 130/85 mmHg, Respiratory Rate 19, Temperature 37.4°C, and Oxygen Saturation 95%. Patient has a BMI of 27.3 (Height: 160cm, Weight: 70kg). Clinical notes: Overweight, advised lifestyle changes.
+
+Record 9 (P1009): Patient Michael Johnson, a Male born on 1972-08-25. During encounter E2009 on 2026-02-01 at Ward E - Bed 9, vitals were recorded as: Heart Rate 95, Blood Pressure 145/92 mmHg, Respiratory Rate 21, Temperature 38.3°C, and Oxygen Saturation 93%. Patient has a BMI of 26.8 (Height: 178cm, Weight: 85kg). Clinical notes: Febrile, hypertensive.
+
+Record 10 (P1010): Patient Emma Taylor, a Female born on 1998-05-10. During encounter E2010 on 2026-02-01 at Ward E - Bed 10, vitals were recorded as: Heart Rate 72, Blood Pressure 112/70 mmHg, Respiratory Rate 15, Temperature 36.6°C, and Oxygen Saturation 99%. Patient has a BMI of 21.5 (Height: 170cm, Weight: 62kg). Clinical notes: Healthy, no complaints.
