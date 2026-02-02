@@ -384,7 +384,7 @@ def main():
     """Main function to demonstrate LangChain vector store with OpenRouter."""
     
     # Get API key from environment or prompt
-    api_key = "sk-or-v1-0b19cb0e091705f034fd6d8e8a2b751e9aeba"#os.environ.get("OPENROUTER_API_KEY")
+    api_key = ""#os.environ.get("OPENROUTER_API_KEY")
     if not api_key:
         print("Please set OPENROUTER_API_KEY environment variable or pass it as a parameter")
         print("Get your API key from: https://openrouter.ai/keys")
